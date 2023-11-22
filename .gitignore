@@ -3,3 +3,27 @@ obj/
 .vs/
 .vscode/
 ./front/SteveCtrlServer/.vscode
+# Logs
+./front/SteveCtrlServer/logs
+./front/SteveCtrlServer/*.log
+./front/SteveCtrlServer/npm-debug.log*
+./front/SteveCtrlServer/yarn-debug.log*
+./front/SteveCtrlServer/yarn-error.log*
+./front/SteveCtrlServer/pnpm-debug.log*
+./front/SteveCtrlServer/lerna-debug.log*
+
+./front/SteveCtrlServer/node_modules
+./front/SteveCtrlServer/dist
+./front/SteveCtrlServer/dist-ssr
+./front/SteveCtrlServer/*.local
+
+# Editor directories and files
+./front/SteveCtrlServer/.vscode/*
+./front/SteveCtrlServer/!.vscode/extensions.json
+./front/SteveCtrlServer/.idea
+./front/SteveCtrlServer/.DS_Store
+./front/SteveCtrlServer/*.suo
+./front/SteveCtrlServer/*.ntvs*
+./front/SteveCtrlServer/*.njsproj
+./front/SteveCtrlServer/*.sln
+./front/SteveCtrlServer/*.sw?
